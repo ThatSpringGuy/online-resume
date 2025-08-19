@@ -1,0 +1,33 @@
+* {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+li {
+    margin-left: -5px;
+}
+.center_div {
+    margin: 0% 3%;
+}
+.small_margins {
+    margin-top: -1.4%;
+    margin-bottom: -1.4%;
+}
+.italic {
+    font-style: italic;
+}
+.right_align {
+    float: right;
+}
+.head_margin {
+    margin-top: -4px;
+    margin-left: 10px;
+}
+.sub_margin {
+    margin-top: -14px;
+    margin-left: 13px;
+}
+.tech-margin {
+    margin-left: 10px;
+    margin-top: -4px;
+    margin-bottom: 10px;
+}
